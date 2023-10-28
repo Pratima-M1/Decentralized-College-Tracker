@@ -6,6 +6,6 @@ Decentralized College Tracker
   <li>function to block college from adding student details </li>
 <li>function to change student course</li>
   <li>function to get number of students for a given college address</li>
-  <Li>function to get student details</Li>
-  <li>function to get college details</li>
+  <Li>function to get student details for a given student name</Li>
+  <li>function to get college details for a given college address</li>
   </ul>
